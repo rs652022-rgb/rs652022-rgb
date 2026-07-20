@@ -1,6 +1,3 @@
-```markdown
-<div align="center">
-
 # 👋 Hi, I'm Rahul Sharma
 
 ### 🚀 Founder • CEO • AI Engineer
