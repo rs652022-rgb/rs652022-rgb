@@ -1,6 +1,6 @@
-          # 👋 Hi, I'm Rahul Sharma
+ # 👋 Hi, I'm Rahul Sharma
 
-        ### 🚀 Founder • CEO • AI Engineer
+### 🚀 Founder • CEO • AI Engineer
 
 ### AdmirerX — Intelligent Business Infrastructure Company
 
